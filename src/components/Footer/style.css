@@ -1,0 +1,27 @@
+.pageFooter {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: pink;
+  text-align: center;
+  color: black;
+}
+
+.pageFooter a {
+    margin: 0 8px;
+    list-style: none;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.pageFooter a:hover{
+    color: white;
+    transition: 0.5s;
+    text-decoration: underline;
+
+}
+
+.about-us p {
+    font-size: 19px;;
+}
